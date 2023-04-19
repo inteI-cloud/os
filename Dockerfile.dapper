@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 # FROM arm64=arm64v8/ubuntu:bionic
 
 # get the apt-cacher proxy set
