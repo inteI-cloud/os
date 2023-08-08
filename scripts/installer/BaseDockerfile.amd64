@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.18.3
 # TODO: redo as cross platform, and without git etc :)
 
 ARG VERSION
